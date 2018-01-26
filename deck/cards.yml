@@ -1,0 +1,96 @@
+cards:
+# 使用できない、持っているだけで効果を発揮
+  - name: 腕力
+    description: 常人を大きく上回る腕力を持つ。重いものを動かしたり、戦闘時にも威力を発揮する。
+  - name: 身軽
+    description: 身のこなしが素早く反応速度にも優れる。通常では行けないところに行けたり、物音を立てずに忍び寄ったりできる。
+  - name: 危険察知
+    description: 第六感が冴えている。危機を予見することができる。
+  - name: 料理
+    description: 食材の調理するときの手際に優れる。
+  - name: 調合
+    description: 素材を組み合わせて薬品等を作成することができる。
+  - name: 目利き(武具)
+    description: 武器、防具の市場価値に詳しく、売却時に高値を付けることができる。また武具の隠れた効果を見つけることができる。
+  - name: 目利き(素材)
+    description: 素材の市場価値に詳しく、売却時に高値を付けることができる。
+  - name: 目利き(魔法)
+    description: 魔法があしらわれた道具の市場価値に詳しく、売却時に高値を付けることができる。また道具の隠れた効果を見つけることができる。
+  - name: 信仰心
+    description: 大いなる存在に対する揺るぎない信仰心を持っている。最も強い精神力となる。
+
+# ステータス
+  - name: 毒
+  - name: 猛毒
+  - name: 致死毒
+  - name: 麻痺
+  - name: 出血
+  - name: 眠り
+  - name: スタン
+  - name: 気絶
+
+# 戦闘時スキル
+  - name: 強打
+  - name: トラップ
+  - name: 先制
+  - name: カウンター
+  - name: 急所突き
+  - name: 逃走
+  - name: 挑発
+  - name:
+# 道具
+  - name: 回復薬
+  - name: 手投げ炸裂弾
+  - name: 毒消し
+  - name: 解呪薬
+  - name: 魔法の杖
+  - name: 棍棒
+  - name: ナイフ
+  - name: 騎士剣
+  - name: 騎士盾
+  - name: 弓矢
+  - name: クロスボウ
+
+# 魔法
+  - name: 治癒の魔法
+  - name: マジック・ミサイル
+  - name: 爆炎の魔法
+  - name: 浄化の魔法
+  - name: 解呪の魔法
+  - name:
+
+# 一般スキル
+  - name: 雑談
+  - name: 手品
+  - name: 気丈
+  - name: 故郷の歌
+  - name: 忍び足
+  - name: 励まし
+  - name: 説教
+  - name: 弔い
+
+# 奇跡
+  - name: 時渡り
+  - name: 復活の奇跡
+  - name: 予知
+  - name: 後付け設定
+  - name: こんなこともあろうかと
+
+# バッド
+  - name: 慟哭
+  - name: 狂気
+  - name: 険悪
+  - name: 懐郷病
+  - name: 出血
+  - name: 衰弱
+  - name: 絶望
+
+# イベント
+  - name: 毒蜘蛛
+  - name: ゴブリン
+  - name: こうもり
+  - name: こうもりの大群
+  - name: ゴブリン小隊
+  - name: ゾンビ
+  - name: ゾンビの群
+
